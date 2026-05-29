@@ -252,4 +252,3 @@ Created as a demonstration of my skills for Monitoring and Observability, also t
 - [Prometheus Documentation](https://prometheus.io/docs/)
 - [Grafana Documentation](https://grafana.com/docs/)
 - [Kubernetes Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/)
-EOF
